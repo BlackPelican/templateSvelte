@@ -9,9 +9,7 @@ npm install
 npm run dev
 ```
 
-[localhost:5000]
-
-Build: 
+[localhost:5000](localhost:5000)
 
 ```bash
 npm run build
