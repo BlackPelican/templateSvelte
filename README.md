@@ -1,7 +1,7 @@
 # minimal svelte template
 
 ```bash
-npx degit blackpelican/template project-name
+npx degit blackpelican/templateSvelte project-name
 ```
 
 ```bash
