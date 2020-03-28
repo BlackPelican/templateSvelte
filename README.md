@@ -2,6 +2,8 @@
 
 ```bash
 npx degit blackpelican/templateSvelte project-name
+or
+git clone github.com/BlackPelican/templateSvelte
 ```
 
 ```bash
